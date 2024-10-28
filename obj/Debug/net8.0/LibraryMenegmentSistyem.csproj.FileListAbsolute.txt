@@ -1,0 +1,29 @@
+C:\Users\II Novbe\source\repos\LibraryMenegmentSistyem\bin\Debug\net8.0\LibraryMenegmentSistyem.exe
+C:\Users\II Novbe\source\repos\LibraryMenegmentSistyem\bin\Debug\net8.0\LibraryMenegmentSistyem.deps.json
+C:\Users\II Novbe\source\repos\LibraryMenegmentSistyem\bin\Debug\net8.0\LibraryMenegmentSistyem.runtimeconfig.json
+C:\Users\II Novbe\source\repos\LibraryMenegmentSistyem\bin\Debug\net8.0\LibraryMenegmentSistyem.dll
+C:\Users\II Novbe\source\repos\LibraryMenegmentSistyem\bin\Debug\net8.0\LibraryMenegmentSistyem.pdb
+C:\Users\II Novbe\source\repos\LibraryMenegmentSistyem\obj\Debug\net8.0\LibraryMenegmentSistyem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\LibraryMenegmentSistyem\obj\Debug\net8.0\LibraryMenegmentSistyem.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\LibraryMenegmentSistyem\obj\Debug\net8.0\LibraryMenegmentSistyem.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\LibraryMenegmentSistyem\obj\Debug\net8.0\LibraryMenegmentSistyem.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\LibraryMenegmentSistyem\obj\Debug\net8.0\LibraryMenegmentSistyem.dll
+C:\Users\II Novbe\source\repos\LibraryMenegmentSistyem\obj\Debug\net8.0\refint\LibraryMenegmentSistyem.dll
+C:\Users\II Novbe\source\repos\LibraryMenegmentSistyem\obj\Debug\net8.0\LibraryMenegmentSistyem.pdb
+C:\Users\II Novbe\source\repos\LibraryMenegmentSistyem\obj\Debug\net8.0\LibraryMenegmentSistyem.genruntimeconfig.cache
+C:\Users\II Novbe\source\repos\LibraryMenegmentSistyem\obj\Debug\net8.0\ref\LibraryMenegmentSistyem.dll
+C:\Users\ACER\Desktop\LibraryMenegmentSistyem\obj\Debug\net8.0\LibraryMenegmentSistyem.dll
+C:\Users\ACER\Desktop\LibraryMenegmentSistyem\obj\Debug\net8.0\refint\LibraryMenegmentSistyem.dll
+C:\Users\ACER\Desktop\LibraryMenegmentSistyem\obj\Debug\net8.0\LibraryMenegmentSistyem.pdb
+C:\Users\ACER\Desktop\LibraryMenegmentSistyem\bin\Debug\net8.0\LibraryMenegmentSistyem.exe
+C:\Users\ACER\Desktop\LibraryMenegmentSistyem\bin\Debug\net8.0\LibraryMenegmentSistyem.deps.json
+C:\Users\ACER\Desktop\LibraryMenegmentSistyem\bin\Debug\net8.0\LibraryMenegmentSistyem.runtimeconfig.json
+C:\Users\ACER\Desktop\LibraryMenegmentSistyem\bin\Debug\net8.0\LibraryMenegmentSistyem.dll
+C:\Users\ACER\Desktop\LibraryMenegmentSistyem\bin\Debug\net8.0\LibraryMenegmentSistyem.pdb
+C:\Users\ACER\Desktop\LibraryMenegmentSistyem\obj\Debug\net8.0\LibraryMenegmentSistyem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\LibraryMenegmentSistyem\obj\Debug\net8.0\LibraryMenegmentSistyem.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\LibraryMenegmentSistyem\obj\Debug\net8.0\LibraryMenegmentSistyem.AssemblyInfo.cs
+C:\Users\ACER\Desktop\LibraryMenegmentSistyem\obj\Debug\net8.0\LibraryMenegmentSistyem.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\LibraryMenegmentSistyem\obj\Debug\net8.0\LibraryMenegmentSistyem.genruntimeconfig.cache
+C:\Users\ACER\Desktop\LibraryMenegmentSistyem\obj\Debug\net8.0\ref\LibraryMenegmentSistyem.dll
+C:\Users\ACER\Desktop\LibraryMenegmentSistyem\obj\Debug\net8.0\LibraryMenegmentSistyem.sourcelink.json
